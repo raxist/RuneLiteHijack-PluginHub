@@ -1,13 +1,25 @@
 [
   {
-    "internalName": "hijack-customize-pluginhub",
-    "hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
-    "size": 2221,
+    "internalName": "example-4.6",
+    "hash": "76a0d18a9d8ee1d2e3c70d2c6535c97c5b44b2794926e18c434904d500f9496d",
+    "size": 281827,
     "plugins": [
-      "ca.arnah.runelite.HijackCustomizePlugin"
+      "com.example.AutoTele",
+      "com.example.CalvarionHelper",
+      "com.example.3t4g",
+      "com.example.EthanApiPlugin",
+      "com.example.Farm Runner",
+      "com.example.Gauntlet Flicker and Switcher",
+      "com.example.SwordFish2Tick",
+      "com.example.Lava Runecrafter",
+      "com.example.NightmareHelper",
+      "com.example.Packet Utils",
+      "com.example.Ethan PrayerFlickerPlugin",
+      "com.example.Super Glass Maker",
+      "com.example.Upkeep Plugin"
     ],
-    "displayName": "HiJack Customize PluginHub",
-    "description": "",
-    "provider": "arnah"
+    "displayName": "Raxist Plugin Hub (ethans api and stuff)",
+    "description": "contains like 2 billion trillion plugins! for dev purposes and swag",
+    "provider": "ethan, raxist"
   }
 ]
